@@ -1,0 +1,16 @@
+.pydevproject
+*.pyc
+.pvt/*
+.out/*
+.wdir/*
+.project
+.classpath
+.settings/*
+\#*
+.\#*
+*~
+.DS_Store
+bin/*
+.idea
+*.iml
+__init__.py
