@@ -14,3 +14,4 @@ bin/*
 .idea
 *.iml
 __init__.py
+target/
